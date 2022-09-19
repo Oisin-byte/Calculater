@@ -1,4 +1,4 @@
-## Calculater
+# Calculater
 
 **Simple calculater Gui in Tkinter**
 
@@ -18,4 +18,4 @@ cd app
 py main.py
 ```
 
-Vist my [Webiste](www.digitalbulb.ie).
+
