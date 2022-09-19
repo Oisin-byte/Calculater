@@ -6,11 +6,8 @@
 **Windows:**
      ```
      .\env\Scripts\activate
-     ```
-     
-      ```
+      
       cd app
-      ```
-      ```
+      
       py main.py
       ```
