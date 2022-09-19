@@ -4,10 +4,8 @@
 
 ## How to Run
 **Windows:**
-     ```
-     .\env\Scripts\activate
-      
-      cd app
-      
-      py main.py
-      ```
+```
+git status
+git add
+git commit
+```
