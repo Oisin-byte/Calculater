@@ -5,7 +5,17 @@
 ## How to Run
 **Windows:**
 ```
-git status
-git add
-git commit
+.\env\Scripts\activate
+cd app
+py main.py
 ```
+
+
+**MacOS/Unix:**
+```
+source env/bin/activate
+cd app
+py main.py
+```
+
+Vist my [Webiste](https://www.digtialbulb.ie).
