@@ -18,4 +18,4 @@ cd app
 py main.py
 ```
 
-Vist my [Webiste](https://www.digtialbulb.ie).
+Vist my [Webiste](www.digitalbulb.ie).
